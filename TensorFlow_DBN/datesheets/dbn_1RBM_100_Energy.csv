@@ -1,0 +1,2 @@
+begin timestamp,tag,duration(seconds),whole CPU energy,integrated GPU energy,RAPL Core energy
+1689161910.2345147;foo;0.9049177169799805;23052492.0;432982.0;19944163.0

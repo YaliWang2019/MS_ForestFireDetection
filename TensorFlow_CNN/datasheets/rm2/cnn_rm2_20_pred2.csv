@@ -1,0 +1,21 @@
+filename,prediction,time
+no_fire (3).jpg,Fire,0.08735013008117676
+no_fire (4).jpg,Fire,0.02755904197692871
+fire (1).jpg,Fire,0.026805877685546875
+fire (4).jpg,Fire,0.027495622634887695
+fire (10).jpg,No Fire,0.027048587799072266
+fire (8).jpg,Fire,0.02622842788696289
+no_fire (7).jpg,No Fire,0.02640986442565918
+fire (2).jpg,No Fire,0.028675079345703125
+fire (9).jpg,Fire,0.026131868362426758
+no_fire (2).jpg,No Fire,0.025602340698242188
+fire (7).jpg,Fire,0.026871919631958008
+fire (3).jpg,Fire,0.025046825408935547
+no_fire (6).jpg,No Fire,0.02554774284362793
+no_fire (1).jpg,No Fire,0.02577066421508789
+fire (5).jpg,Fire,0.02594614028930664
+no_fire (8).jpg,No Fire,0.025789737701416016
+fire (11).jpg,Fire,0.0255582332611084
+no_fire (5).jpg,Fire,0.02969193458557129
+no_fire (9).jpg,No Fire,0.026735544204711914
+fire (6).jpg,Fire,0.026290416717529297

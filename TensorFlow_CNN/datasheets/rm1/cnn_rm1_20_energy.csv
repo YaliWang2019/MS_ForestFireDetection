@@ -1,0 +1,6 @@
+begin timestamp,tag,duration(seconds),whole CPU energy,integrated GPU energy,RAPL Core energy
+1689152952.3943746;foo;0.586815595626831;9808324.0;99731.0;7525493.0
+begin timestamp,tag,duration(seconds),whole CPU energy,integrated GPU energy,RAPL Core energy
+1689153025.4233768;foo;0.5868029594421387;9090248.0;202270.0;7536601.0
+begin timestamp,tag,duration(seconds),whole CPU energy,integrated GPU energy,RAPL Core energy
+1689153594.181477;foo;0.5873022079467773;8857766.0;90332.0;7434307.0

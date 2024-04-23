@@ -1,0 +1,48 @@
+filename,prediction,time
+fire (18).jpg,No Fire,0.11658596992492676
+no_fire (3).jpg,Fire,0.041379690170288086
+no_fire (4).jpg,Fire,0.045432090759277344
+fire (24).jpg,No Fire,0.0446321964263916
+fire (1).jpg,No Fire,0.044441938400268555
+no_fire (14).jpg,No Fire,0.04435539245605469
+no_fire (13).jpg,No Fire,0.04390430450439453
+fire (4).jpg,No Fire,0.04215216636657715
+no_fire (16).jpg,No Fire,0.04212784767150879
+fire (15).jpg,No Fire,0.0433650016784668
+fire (10).jpg,No Fire,0.04400944709777832
+fire (8).jpg,No Fire,0.043699026107788086
+fire (26).jpg,No Fire,0.0436551570892334
+no_fire (7).jpg,Fire,0.04617166519165039
+fire (2).jpg,No Fire,0.04512906074523926
+fire (25).jpg,No Fire,0.04520058631896973
+fire (9).jpg,No Fire,0.044675588607788086
+no_fire (2).jpg,No Fire,0.04365968704223633
+no_fire (10).jpg,No Fire,0.043584346771240234
+fire (7).jpg,No Fire,0.043871164321899414
+fire (13).jpg,No Fire,0.044554948806762695
+fire (3).jpg,No Fire,0.039711713790893555
+no_fire (6).jpg,No Fire,0.0427701473236084
+no_fire (11).jpg,No Fire,0.04378390312194824
+no_fire (18).jpg,No Fire,0.04490995407104492
+no_fire (17).jpg,No Fire,0.04437613487243652
+fire (22).jpg,No Fire,0.04362130165100098
+no_fire (19).jpg,No Fire,0.04238152503967285
+fire (16).jpg,No Fire,0.0414278507232666
+no_fire (1).jpg,No Fire,0.043421268463134766
+fire (5).jpg,Fire,0.04349327087402344
+no_fire (21).jpg,No Fire,0.04267382621765137
+no_fire (8).jpg,Fire,0.04281258583068848
+fire (11).jpg,No Fire,0.043909549713134766
+no_fire (15).jpg,No Fire,0.04749655723571777
+fire (19).jpg,No Fire,0.04428839683532715
+fire (14).jpg,No Fire,0.04493117332458496
+no_fire (5).jpg,No Fire,0.04422593116760254
+no_fire (20).jpg,No Fire,0.0438389778137207
+no_fire (9).jpg,Fire,0.04368185997009277
+fire (23).jpg,No Fire,0.042083740234375
+fire (17).jpg,No Fire,0.043799400329589844
+fire (12).jpg,No Fire,0.04216337203979492
+no_fire (12).jpg,No Fire,0.04343605041503906
+fire (6).jpg,No Fire,0.0436246395111084
+fire (21).jpg,No Fire,0.0496821403503418
+fire (20).jpg,No Fire,0.04489016532897949
